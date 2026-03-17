@@ -1,0 +1,26 @@
+body{
+    font-family: Arial;
+    background: #f4f4f4;
+}
+
+h1{
+    color:#333;
+}
+
+ul{
+    background: white;
+    padding: 20px;
+}
+
+li{
+    margin: 10 px 0;
+}
+
+a{
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}

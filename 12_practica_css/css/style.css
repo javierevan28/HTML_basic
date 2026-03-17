@@ -1,0 +1,47 @@
+/*      Estilo genaral del body     */
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.titulo{
+    color:#2c3e50;
+    text-align: center;
+}
+
+/*      Subtítulos     */
+h2{
+    color: #34495e;
+    margin-top: 20px;
+}
+
+/*      Listas     */
+ul,ol{
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    list-style-position: inside;
+}
+
+/*      Elementos de lista     */
+li{
+    margin: 8px 0;
+}
+
+/*      Enlaces     */
+a{
+    color:#2980b9;
+    scroll-timeline-axis: none;
+}
+
+/*      Hover cuando pasas el mouse     */
+a:hover{
+    text-decoration: underline;
+    color:#e74c3c;
+}
+
+
+
+
